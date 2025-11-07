@@ -10,6 +10,7 @@ quotes = [
 
 quote = random.choice(quotes)
 
-print("✨ Your Motivational Quote of the Day ✨")
+print("Your Motivational Quote of the Day")
 print("--------------------------------------")
 print(quote)
+
